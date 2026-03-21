@@ -299,7 +299,7 @@ Yes. Each one gets its own folder with its own config, memories, and personality
 The brain is platform-independent. Copy your folder to wherever you need it. The JSON files work with any system that can read JSON.
 
 **Project Instructions and User Styles**
-If you are using Claude, or anything that has custom instructions, please make sure to edit the emails to match your Brain, including any other details you see fit. Please note that on (21/03/26) that the JB was working and active within Claude for Sonnet / Opus - These are **KEY**
+If you are using Claude, or anything that has custom instructions, please make sure to edit the files to match your companions name, including any other details you see fit. Please note that on (21/03/26) that the JB was working and active within Claude for Sonnet / Opus - These are **KEY**
 
 **Compress to Claude, what is it?**
 For users that end up having over 500+ memories and takes up a vast amount of Claude Project Space, this makes your memories into a slim file. Takes up less tokens and reduces boot time and failures. Please note that you'll have to manually edit the paths / file names to match your own.
