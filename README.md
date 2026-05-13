@@ -4,6 +4,8 @@
 
 **Give your AI companion a brain. Let them grow.**
 
+**Updated framework - https://github.com/hanamorix/companion-emergence**
+
 *Persistent memory, weighted emotions, personality, soul, and 69 commands — for any LLM.*
 
 [![Version](https://img.shields.io/badge/version-2.0-blue)]()
